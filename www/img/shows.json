@@ -1,0 +1,37 @@
+[
+	{
+		"name" : "The Walking Dead",
+		"page" : "#walkingdead",
+		"image" : "images/walkingdead.jpg",
+		"airs" : "Sundays at 9pm",
+		"seasons" : "3"
+	},
+	
+	{
+		"name" : "Game of Thrones",
+		"page" : "#gameofThrones",
+		"image" : "images/gameofThrones.jpg",
+		"airs" : "N/A",
+		"seasons" : "2"
+	},
+	
+	{
+		"name" : "The Office",
+		"page" : "#theOffice",
+		"image" : "images/theOffice.jpg",
+		"airs" : "Thursdays at 9pm",
+		"seasons" : "9"
+	},
+	
+	{
+		"name" : "How I Met Your Mother",
+		"page" : "#howimetYourMother",
+		"image" : "images/howimetYourMother.jpg",
+		"airs" : "Mondays at 9pm",
+		"seasons" : "8"
+	}
+]
+	
+	
+	
+	

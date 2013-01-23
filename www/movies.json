@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Step Brothers",
+        "page": "#stepbrothers",
+        "image": "images/stepbrothers.jpg",
+        "released": "2008"
+    },
+    {
+        "name": "Inception",
+        "page": "#inception",
+        "image": "images/inception.jpg",
+        "released": "2010"
+    },
+    {
+        "name": "Rise of the Planet of the Apes",
+        "page": "#riseofApes",
+        "image": "images/riseofapes.jpg",
+        "released": "2011"
+    },
+    {
+        "name": "Zoolander",
+        "page": "#zoolander",
+        "image": "images/zoolander.jpg",
+        "released": "2001"
+    }
+]

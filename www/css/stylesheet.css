@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#mainPic h4
+{
+	margin-left: 22px;
+	margin-top: 0;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
